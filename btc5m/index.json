@@ -1,0 +1,21 @@
+{
+  "interval": "5m",
+  "symbol": "BTCUSDT",
+  "timezone": "Asia/Shanghai",
+  "lastTimestamp": "1784627100000",
+  "updatedAt": "2026/07/21 17:50:04",
+  "entries": [
+    {
+      "interval": "5m",
+      "symbol": "BTCUSDT",
+      "month": "2026-07",
+      "timezone": "Asia/Shanghai",
+      "file": "2026-07.jsonl",
+      "startMs": 1782835200000,
+      "endMs": 1785513599999,
+      "rows": 2789,
+      "addedRows": 3,
+      "generatedAt": "2026-07-21T09:50:04.444Z"
+    }
+  ]
+}

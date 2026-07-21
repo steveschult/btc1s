@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-07-19",
+    "timezone": "Asia/Shanghai",
+    "file": "2026-07-19.jsonl",
+    "startMs": 1784390400000,
+    "endMs": 1784476799999,
+    "rows": 56962,
+    "generatedAt": "2026-07-20T00:15:07.239Z"
+  },
+  {
+    "date": "2026-07-20",
+    "timezone": "Asia/Shanghai",
+    "file": "2026-07-20.jsonl",
+    "startMs": 1784476800000,
+    "endMs": 1784563199999,
+    "rows": 29618,
+    "generatedAt": "2026-07-20T00:14:46.727Z"
+  }
+]
