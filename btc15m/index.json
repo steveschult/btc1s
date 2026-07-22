@@ -2,8 +2,8 @@
   "interval": "15m",
   "symbol": "BTCUSDT",
   "timezone": "Asia/Shanghai",
-  "lastTimestamp": "1784626200000",
-  "updatedAt": "2026/07/21 17:50:04",
+  "lastTimestamp": "1784683800000",
+  "updatedAt": "2026/07/22 09:58:52",
   "entries": [
     {
       "interval": "15m",
@@ -13,9 +13,9 @@
       "file": "2026-07.jsonl",
       "startMs": 1782835200000,
       "endMs": 1785513599999,
-      "rows": 930,
-      "addedRows": 1,
-      "generatedAt": "2026-07-21T09:50:04.966Z"
+      "rows": 994,
+      "addedRows": 40,
+      "generatedAt": "2026-07-22T01:58:52.858Z"
     }
   ]
 }
