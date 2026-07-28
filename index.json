@@ -16,5 +16,32 @@
     "endMs": 1784563199999,
     "rows": 29618,
     "generatedAt": "2026-07-20T00:14:46.727Z"
+  },
+  {
+    "date": "2026-07-26",
+    "timezone": "Asia/Shanghai",
+    "file": "2026-07-26.jsonl",
+    "startMs": 1784995200000,
+    "endMs": 1785081599999,
+    "rows": 86400,
+    "generatedAt": "2026-07-28T08:17:15.968Z"
+  },
+  {
+    "date": "2026-07-27",
+    "timezone": "Asia/Shanghai",
+    "file": "2026-07-27.jsonl",
+    "startMs": 1785081600000,
+    "endMs": 1785167999999,
+    "rows": 86395,
+    "generatedAt": "2026-07-28T08:14:25.594Z"
+  },
+  {
+    "date": "2026-07-28",
+    "timezone": "Asia/Shanghai",
+    "file": "2026-07-28.jsonl",
+    "startMs": 1785168000000,
+    "endMs": 1785254399999,
+    "rows": 57946,
+    "generatedAt": "2026-07-28T08:06:20.303Z"
   }
 ]
